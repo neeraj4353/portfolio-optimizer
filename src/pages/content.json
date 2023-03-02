@@ -1,0 +1,43 @@
+{
+    "clients":[
+        {
+            "id": 1,
+            "name": "Sam Smith",
+            "image": "images/pic1.jpg",
+            "email":"sam@example.com",
+            "phone":"+966 76758 56767",
+            "totalInvestedAmount": 500000,
+            "latestInvestment": {
+                "amount": 300000,
+                "timeHorizon": 5,
+                "riskProfile": "balanced"
+            }
+        },
+        {
+            "id": 2,
+            "name": "Julia Rose",
+            "image": "images/pic2.jpg",
+            "email":"julia@example.com",
+            "phone":"+966 98790 56767",
+            "totalInvestedAmount": 450000,
+            "latestInvestment": {
+                "amount": 400000,
+                "timeHorizon": 3,
+                "riskProfile": "aggressive"
+            }
+        },
+        {
+            "id": 3,
+            "name": "Harry Jones",
+            "image": "images/pic3.jpg",
+            "email":" harry@example.com",
+            "phone":"+966 76758 56767",
+            "totalInvestedAmount": 700000,
+            "latestInvestment": {
+                "amount": 500000,
+                "timeHorizon": 7,
+                "riskProfile": "conservative"
+            }
+        }
+    ]
+}
